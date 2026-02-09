@@ -38,8 +38,9 @@ Yapılan testler sonucunda elde edilen metrikler şöyledir:
 ---
 
 ## ⚙️ Kurulum ve Çalıştırma
-1.Depoyu klonlayın:
 ```bash
+1.Depoyu klonlayın:
+
 git clone [https://github.com/kullaniciadi/machine-learning-analysis.git](https://github.com/kullaniciadi/machine-learning-analysis.git)
 
 2.Gereksinimlerin Yüklenmesi
