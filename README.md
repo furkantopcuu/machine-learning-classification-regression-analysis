@@ -43,4 +43,7 @@ Analiz sürecinde **Support Vector Machines (SVM)** ve **XGBoost** algoritmalar�
 1. Depoyu klonlayın:
    ```bash
    git clone [https://github.com/kullaniciadi/machine-learning-analysis.git](https://github.com/kullaniciadi/machine-learning-analysis.git)
+2.Gerekli paketleri yükleyin:
+ ```bash
    pip install xgboost scikit-learn pandas matplotlib seaborn tabulate
+    
