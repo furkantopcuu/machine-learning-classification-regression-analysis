@@ -38,11 +38,14 @@ Yapılan testler sonucunda elde edilen metrikler şöyledir:
 ---
 
 ## ⚙️ Kurulum ve Çalıştırma
-```bash
+
 1.Depoyu klonlayın:
-
+```bash
 git clone [https://github.com/kullaniciadi/machine-learning-analysis.git](https://github.com/kullaniciadi/machine-learning-analysis.git)
+```
+2. Gereksinimlerin Yüklenmesi
 
-2.Gereksinimlerin Yüklenmesi
 ```bash
 pip install xgboost scikit-learn pandas numpy matplotlib seaborn tabulate openpyxl
+
+
